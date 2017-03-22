@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Resume Editor</string>
+
+    <string name="edit_basic_info">Edit basic info</string>
+
+    <string name="section_education">Education</string>
+
+    <string name="add_education">Add education</string>
+    <string name="edit_education">Edit education</string>
+
+    <string name="user_picture">User picture</string>
+
+    <string name="ningning_email">dingnn001@gmail.com</string>
+
+    <string name="graduate_school">Cornell University(2013 ~ 2014)</string>
+</resources>
+
